@@ -1,4 +1,4 @@
-# Chat-Web-App
+# LAN-Chat-Web-App
 
 ## Setup
 
