@@ -1,4 +1,4 @@
-# LAN-Chat-Web-App
+# LAN-Chat-Web-App Fun Little Project
 
 ## Setup
 
